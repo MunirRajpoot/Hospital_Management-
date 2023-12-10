@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainHead{
+    /* background-color:#06bee1; */
+    background-image: url("https://acropolium.com/img/articles/healthcare-management-system-development/img10.jpg");
+ background-size: cover; 
+    background-position: center;
+     background-repeat: no-repeat;
+    
+     height: 450px;
+   
+}
+.head2{
+    margin-top: 5px;
+    font-size: 75px;
+}
